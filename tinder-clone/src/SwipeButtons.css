@@ -1,0 +1,33 @@
+.SwipeButtons{
+    position: absolute;
+    display: flex;
+    margin-top: 35%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+
+
+.sbutton__repeat{
+    color: yellow;
+}
+
+
+.sbutton__close{
+    color: red;
+}
+
+
+.sbutton__star{
+    color: blue;
+}
+
+
+.sbutton__fav{
+    color: green;
+}
+
+
+.sbutton__flash{
+    color: purple;
+}
