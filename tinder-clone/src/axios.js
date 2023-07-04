@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const inst = axios.create({
-    baseURL : 'http://localhost:8001',
+    baseURL : 'https://tinder-clone-db472.web.app/',
 });
 
 export default inst;
