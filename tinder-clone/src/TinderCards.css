@@ -14,7 +14,7 @@
 .card__container{
     display: flex;
     justify-content: center;
-    margin-top: 5vh;
+    margin: 5%;
 }
 
 .swipe{
